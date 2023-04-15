@@ -1,5 +1,5 @@
 IDQ_Soul_Wallet
-Created on 2023.04.15b
+Created on 2023.04.15c
 
 Team project: ETHGlobal Tokyo
 IDQ ｜Soul Wallet
@@ -12,4 +12,3 @@ https://github.com/filecoin-project/community/discussions/585
 (2) Hardhat installation:
 https://docs.filecoin.io/smart-contracts/developing-contracts/hardhat/
 
-(3) 
