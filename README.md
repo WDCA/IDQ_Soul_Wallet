@@ -38,6 +38,3 @@ PRIVATE_KEY='d52cd65a5746ae71cf3d07a8cf392ca29d7acb96deba7d94b19a9cf3c9f63022'
 
 (Note: we had an error to install 'yarn'. Therefore, the code is not fully functional yet, and the contract has not been deployed)
 
-
-
-
